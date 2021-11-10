@@ -1,0 +1,29 @@
+{
+  "name": "cypress-spellbook",
+  "version": "1.0.0",
+  "description": "A collection of custom Cypress commands for common components",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zolly-dev/cypress-spellbook.git"
+  },
+  "keywords": [
+    "cypress",
+    "commands",
+    "test",
+    "automation",
+    "browser",
+    "command",
+    "selector",
+    "spells"
+  ],
+  "author": "Cameron Zollinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zolly-dev/cypress-spellbook/issues"
+  },
+  "homepage": "https://github.com/zolly-dev/cypress-spellbook#readme"
+}
